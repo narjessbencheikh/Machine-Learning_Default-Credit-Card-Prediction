@@ -8,5 +8,6 @@ Utilizing historical credit card customer data and machine learning algorithms, 
 
 Through these efforts, the project seeks to improve the accuracy and consistency of credit risk assessment while identifying early warning signs of potential defaults, leading to reduced risk of defaults and financial losses, as well as improved customer experience through personalized credit offers and early intervention.
 
-<img src="https://github.com/user-attachments/assets/220a2203-ae36-4683-b36b-3e6051e1711f" alt="image" width="400"/>
+
+<img src="https://github.com/user-attachments/assets/220a2203-ae36-4683-b36b-3e6051e1711f" alt="image" width="600"/>
 
